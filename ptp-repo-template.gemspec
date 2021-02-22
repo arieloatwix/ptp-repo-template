@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "ptp-template"
-  spec.version       = "0.1.1"
+  spec.version       = "0.1."
   spec.authors       = ["olinari"]
   spec.email         = ["arielo@wix.com"]
 
